@@ -33,9 +33,9 @@
   </p>
 </p>
 
-
-
 # Problema 2-B
+
+Não conseguimos fazer este exercício.
 
 # Problema 2-C
 
