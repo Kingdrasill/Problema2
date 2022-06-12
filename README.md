@@ -6,7 +6,7 @@
 </div>
 <br>
 <p align="justify">
-  Os exercícios do problemas foram feitos com listas dinâmicas, [vide git](<a href="https://github.com/mpiress/dynamic_stack">(https://github.com/mpiress/dynamic_stack)</a>),  para facilitar a utilização do usuário foi-se criado um menu onde o mesmo pode escolher qual dos exercícios do Problema 1 ele quer ver o resultado. A figura abaixo mostra o menu criado:
+  Os exercícios do problemas foram feitos com pilhas dinâmicas, [vide git](<a href="https://github.com/mpiress/dynamic_stack">(https://github.com/mpiress/dynamic_stack)</a>),  para facilitar a utilização do usuário foi-se criado um menu onde o mesmo pode escolher qual dos exercícios do Problema 2 ele quer ver o resultado. A figura abaixo mostra o menu criado:
   <p align="center">
     <img src="images/menu.png">
   </p>
