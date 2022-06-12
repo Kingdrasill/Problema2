@@ -5,6 +5,12 @@
 <img align="center" height="20px" width="80px" src="https://img.shields.io/badge/Made%20in-VSCode-red"/> 
 </div>
 <br>
+<p align="justify">
+  Os exercícios do problemas foram feitos com listas dinâmicas, [vide git](<a href="https://github.com/mpiress/dynamic_stack">(https://github.com/mpiress/dynamic_stack)</a>),  para facilitar a utilização do usuário foi-se criado um menu onde o mesmo pode escolher qual dos exercícios do Problema 1 ele quer ver o resultado. A figura abaixo mostra o menu criado:
+  <p align="center">
+    <img src="images/menu.png">
+  </p>
+</p>
 
 # Problema 2-A 
 
@@ -95,4 +101,4 @@ O progama disponibilizado possui um arquivo Makefile que realiza todo o procedim
 |  `make`                | Executa a compilação do programa utilizando o gcc, e o resultado vai para a pasta build           |
 |  `make run`            | Executa o programa da pasta build após a realização da compilação                                 |
 
-Trabalho realizado por Gabriel Teixeira, Lívia Gonçalves, Marcus Vinícius e Augusto Bebiano - Maio/2022
+Trabalho realizado por Gabriel Teixeira, Lívia Gonçalves, Marcus Vinícius e Augusto Bebiano - Junho/2022
